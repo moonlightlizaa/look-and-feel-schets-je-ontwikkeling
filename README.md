@@ -2,7 +2,7 @@
 
 # Schets je ontwikkeling 
 
-Je moest een schets maken voor je ontwikkeling voor semester 1. 
+Je moest een praatplaat maken voor je ontwikkeling voor semester 1. 
 Ik heb eerst verschillende schetsen gemaakt . Deze kan je vinden in mijn Wiki. Uiteindelijk heb ik gekozen om een van de schetsen uit te werken. Hiervoor heb ik mijn iPad gebruikt. Met de app Procreate heb ik een leuk eindresultaat kunnen maken. 
 
 Voor meer details voor de opdracht:
