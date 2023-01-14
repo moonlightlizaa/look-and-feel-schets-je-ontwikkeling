@@ -7,13 +7,13 @@ Ik heb eerst verschillende schetsen gemaakt . Deze kan je vinden in mijn Wiki. U
 
 # Mijn doelen voor semester 1
 
-Nieuwe vrienden maken, fijne samenwerkingen hebben
+1. Nieuwe vrienden maken, fijne samenwerkingen hebben
 <br>
-Meer kunnen doen met CSS en JavaScript (animaties, interactieve websites)
+2. Meer kunnen doen met CSS en JavaScript (animaties, interactieve websites)
 <br>
-Betere code schrijven
+3. Betere code schrijven
 <br>
-Mijn doelen voor semester 1 zijn om beter te kunnen werken met github (Ik zie nu dat ik ben vergeten om het in de praatplaat te zetten)
+4. Mijn doelen voor semester 1 zijn om beter te kunnen werken met github (Ik zie nu dat ik ben vergeten om het in de praatplaat te zetten)
 
 Voor meer details voor de opdracht:
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
